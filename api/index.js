@@ -6,7 +6,7 @@ const axios = require('axios');
 const app = express();
 
 // Set up a route for GET requests
-app.get('/', async (req, res) => {
+app.get('/api', async (req, res) => {
 
     // Retrieve the username and format from the query parameters
     const { username, format } = req.query;
