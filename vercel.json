@@ -3,6 +3,5 @@
     "api/index.js": {
       "memory": 1024
     }
-  },
-  "includeFiles": "api/*"
+  }
 }
