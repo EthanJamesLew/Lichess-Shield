@@ -1,3 +1,7 @@
+[![lichess-rapid](https://lichess-shield.vercel.app/api?username=Trollfish-Bot&format=bullet)](https://lichess.org/@/Trollfish-Bot/perf/bullet)
+[![lichess-rapid](https://lichess-shield.vercel.app/api?username=Trollfish-Bot&format=blitz)](https://lichess.org/@/Trollfish-Bot/perf/blitz)
+[![lichess-rapid](https://lichess-shield.vercel.app/api?username=Trollfish-Bot&format=rapid)](https://lichess.org/@/Trollfish-Bot/perf/rapid)
+  
 # Lichess Shield Service
 
 Welcome to the Lichess Shield Service! This application allows you to fetch the ELO rating for a specified user and game format from Lichess and display it in the form of a badge. It's perfect for showing off your Lichess skills on your GitHub profile, blog, or personal website!
